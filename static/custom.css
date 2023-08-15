@@ -1,0 +1,32 @@
+a {
+    color: #191a1f;
+    text-decoration: none;
+}
+
+.project-logo {
+    min-width: 25px;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: 600;
+}
+
+.icon-xl {
+    width: 5rem;
+    height: 5rem;
+    line-height: 5rem;
+    text-align: center;
+    font-size: 1.9rem;
+}
+
+.avatar-lg {
+    height: 4rem;
+    width: 4rem;
+}
+
+.avatar-img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
