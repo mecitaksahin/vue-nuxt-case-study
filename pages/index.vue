@@ -3,9 +3,6 @@
     <Cta /> <!-- CTA Component -->
     <Header /> <!-- Header Component -->
     <Users /> <!-- Header Component -->
-    <main>
-      <!-- Ana içeriğinizi burada oluşturabilirsiniz -->
-    </main>
   </div>
 </template>
 
