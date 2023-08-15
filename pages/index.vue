@@ -15,7 +15,7 @@ export default {
   components: {
     Cta, // CTA bileşenini kullanılabilir hale getiriyoruz,
     Header, // Header bileşenini kullanılabilir hale getiriyoruz,
-    Users // Header bileşenini kullanılabilir hale getiriyoruz,
+    Users // Users bileşenini kullanılabilir hale getiriyoruz,
 
   }
 }
